@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE stus  SYSTEM "stus.dtd">
+<stus>
+    <stu id="123456">
+        <name>张三</name>
+        <age>18</age>
+    </stu>
+    <stu>
+        <name>李四</name>
+        <age>33ww</age>
+    </stu>
+</stus>
